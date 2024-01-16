@@ -70,3 +70,7 @@ git pull
 ```sh
 git pull --rebase
 ```
+Добавление ветки в репозиторий
+```sh
+git push --set-upstream origin <название>
+```
