@@ -52,3 +52,4 @@ git diff
 ```sh
 git log --oneline --graph
 ```
+текст новый
